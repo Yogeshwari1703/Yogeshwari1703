@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Skills & Tech Stack
-- **Frontend:** HTML, CSS, Tailwingcss, Bootstrap, JavaScript, React  
+- **Frontend:** HTML, CSS, Tailwindcss, Bootstrap, JavaScript, React  
 - **Backend:** Node.js, Express.js ,RestAPIs 
 - **Databases:** PostgreSQL, MongoDB,MySQL
 - **Tools:** Git, Github, Excel
@@ -18,6 +18,7 @@
 ## 📫 Contact Me
 - LinkedIn: [Yogeshwari Sakharwade](https://www.linkedin.com/in/yogeshwarisakharwade/)  
 - Email: sakharwadeyogeshwqari@gmail.com 
+
 
 
 
