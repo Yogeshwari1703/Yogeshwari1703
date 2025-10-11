@@ -36,8 +36,7 @@ fun_fact: "I code faster than I type! 😄"
 - ⭐ **Total Stars:** 6  
 - 📦 **Public Repos:** 22  
 - 🎁 **Public Gists:** 5  
-- 👥 **Followers:** 0  
-- 🤝 **Following:** 6  
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari1703&show_icons=true&hide_border=true&theme=tokyonight" />
@@ -102,3 +101,4 @@ fun_fact: "I code faster than I type! 😄"
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogeshwari1703&style=for-the-badge" alt="Profile views" />
 </p>
+
