@@ -28,11 +28,12 @@
 
 ```yaml
 name: Yogeshwari Sakharwade
-emoji: 🚀
-year: 3rd Year (AI & DS)
-college: Dr. D Y Patil College of Engineering, Pune
-hobbies: ['Web Dev', 'AI', 'Hackathons', 'Learning', 'Teamwork']
-fun_fact: "I code faster than I type! 😄"
+currently: Third Year AI & DS Student
+institution: Dr. D Y Patil College of Engineering, Pune
+passion: "Building digital experiences that matter"
+interests: ["Web Development", "Machine Learning", "UI/UX Design", "Open Source"]
+currently_learning: ["Advanced React", "Next.js 14", "AI Integration"]
+fun_fact: "I believe every bug has a story to tell!"
 ```
 
 ## 🛠️ Tech Stack
@@ -336,6 +337,7 @@ hackathon_preparation:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogeshwari1703&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 
 
