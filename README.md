@@ -102,8 +102,8 @@ fun_fact: "I believe every bug has a story to tell!"
 | **[Beatsense](https://github.com/Yogeshwari1703/beatsense)** - Arrhythmia detection system| Python, tensorflow, openCV, Streamlit | [🚀 Live](https://beatsense.streamlit.app/) |
 | **[Contentra](https://github.com/Yogeshwari1703/article-enhancer)** - AI Article Enhancer | MERN, Gemini AI, Cheerio | [🔗 Live](https://article-enhancer-with-llm.onrender.com/) |
 | **[LedgerLock](https://github.com/Yogeshwari1703/LedgerLock)** - Finance dashboard with Role based Access | MERN | [🔗 Live](https://finance-dashboard-assignment-dk01.onrender.com/) |
-| **[JivRaksha](https://github.com/Yogeshwari1703/pet_healthcare_webApp-JivRaksha)** - Pet healthcare platform | HTML, CSS, JS, Rule-based AI | [🌐 Live](https://yogeshwari1703.github.io/pet_healthcare_webApp-JivRaksha/) |
-| **[BookStore](https://github.com/Yogeshwari1703/BookStore)** - Full-stack e-commerce | MERN, Auth | [📚 Live](https://bookstore-webapp-ys.onrender.com/) |
+| **[JivRaksha](https://github.com/Yogeshwari1703/pet_healthcare_webApp-JivRaksha)** - Pet healthcare platform | HTML, CSS, JS, Rule-based AI | [🌐 Live](https://github.com/Yogeshwari1703/pet_healthcare_webApp-JivRaksha) |
+| **[BookStore](https://github.com/Yogeshwari1703/BookStore)** - Full-stack e-commerce | MERN, Auth | [📚 Live](https://github.com/Yogeshwari1703/BookStore) |
 | **[Permalist](https://github.com/Yogeshwari1703/permalist-project)** - To-Do App with PostgreSQL | Node.js, Express, PostgreSQL | [✅ Live](https://permalist-project.onrender.com/) |
 
 </div>
